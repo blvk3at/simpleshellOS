@@ -44,9 +44,9 @@ The Simple Shell Program is a basic command-line interface that allows users to 
 - User interface enhancements, such as colored output or tab completion, can be implemented to improve usability.
 
 ## Contributors
-- [Bilal Afzaal Raja]: [LinkedIn](https://linkedin.com/in/bilalraja16)
-- [Sameer Sultan Butt]: [LinkedIn](https://linkedin.com/in/sameer-sultan-butt)
-- [Muhammad Uzair]: [Mail](211111@students.au.edu.pk)
+- [Bilal Afzaal Raja]
+- [Sameer Sultan Butt]
+- [Muhammad Uzair]
 
 ## License
 All rights reserved.
